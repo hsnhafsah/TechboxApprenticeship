@@ -14,8 +14,9 @@
     ],
     'data': [
         'security/ir.model.access.csv',
-        'views/menu_action_views.xml',
         'views/apprentice_core_views.xml',
+        'views/apprentice_mentor_views.xml',
+        'views/menu_action_views.xml',
         
     ],
     'installable': True,

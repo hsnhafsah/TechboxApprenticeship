@@ -3,4 +3,5 @@
 <!--Menu Items-->
     <menuitem id="menu_root" name="Apprentice" sequence="10"/>
     <menuitem id="menu_apprentice_apprentice" name="Apprentice" parent="menu_root" action="action_apprentice_apprentice" sequence="1"/>
+    <menuitem id="menu_apprentice_mentor" name="Mentor" parent="menu_root" action="action_apprentice_mentor" sequence="2"/>
 </odoo>

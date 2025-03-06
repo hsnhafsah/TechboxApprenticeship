@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_apprentice,apprentice.apprentice,model_apprentice_apprentice,base.group_user,1,1,1,1
+access_apprentice_mentor,apprentice.mentor,model_apprentice_mentor,base.group_user,1,1,1,1
